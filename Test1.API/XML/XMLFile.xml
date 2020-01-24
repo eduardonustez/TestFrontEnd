@@ -11,6 +11,11 @@
     <Location>Bogotá</Location>
   </Project>
   <Project>
+    <Id>3</Id>
+    <ProjectName>Suite</ProjectName>
+    <Location>Bogotá</Location>
+  </Project>
+  <Project>
     <Id>4</Id>
     <ProjectName>Refinancia</ProjectName>
     <Location>Bogotá</Location>
